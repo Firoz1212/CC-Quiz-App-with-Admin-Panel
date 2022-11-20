@@ -1,5 +1,7 @@
 
-<?php include_once("index.html");
-include_once("style.css");
-include_once("app.js");
+<?php 
+include 'header.php';
+include'style.css';
+include 'index.html';
+<script type="text/javascript" href="app.js"></script> 
 ?>
